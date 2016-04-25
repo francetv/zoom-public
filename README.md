@@ -15,7 +15,7 @@ Public repository that reference other repository
 |[ftv-angular-popin-generic](https://gitlab.ftven.net/team-infini/ftv-angular-popin-generic)|Generic popin|
 |[ftv-node-angular-pregen](https://gitlab.ftven.net/team-infini/ftv-node-angular-pregen)|Angular generator|
 |[meta-builder](https://gitlab.ftven.net/team-infini/meta-builder)|Help to build meta with php|
-|[ftv-angular-advertise](https://gitlab.ftven.net/team-infini/ftv-angular-advertise)|Angular module to display advertise from POM on desktop and tablet. This module will display interstitial ads only in desktop (resolution higher than 1280x800, and browser detected as non mobile and non tablet).|
+|[ftv-angular-advertise](https://gitlab.ftven.net/team-infini/ftv-angular-advertise)|Angular module to display advertise from POM on desktop and tablet.|
 |[ftv-angular-cnil](https://gitlab.ftven.net/team-infini/ftv-angular-cnil)|CNIL bar to be displayed on top of your website. This bar is compliant with french law : https://www.cnil.fr/fr/cookies-traceurs-que-dit-la-loi|
 |[ftv-angular-lazyload](https://gitlab.ftven.net/team-infini/ftv-angular-lazyload)|A component that integrates lazyload in angular easily. Display image only when they are visible in viewport.|
 |[ftv-angular-touchevents](https://gitlab.ftven.net/team-infini/ftv-angular-touchevents)|Directive to handle touch events and add an active class to html element.|
