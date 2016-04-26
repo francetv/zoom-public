@@ -23,3 +23,5 @@ Public repository that reference other repository
 |[ftv-angular-timebar](https://gitlab.ftven.net/team-infini/ftv-angular-timebar)|Angular Timebar component usually used for video player to quickly going on different time by clicking or dragging.|
 |[ftv-angular-speaker](https://gitlab.ftven.net/team-infini/ftv-angular-speaker)|Angular module to display a speaker and a volume bar. This module will throw event on mute/unmute and volume change.|
 |[ftv-angular-api-resource](https://gitlab.ftven.net/team-infini/ftv-angular-api-resource)|n/a|
+
+Modules utilisé par &copy;francetv zoom
