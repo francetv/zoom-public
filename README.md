@@ -9,7 +9,7 @@ Public repository that reference other repository
 |[mongodb-aggregation-helper](https://gitlab.ftven.net/team-infini/mongodb-aggregation-helper)|Class to help to build mongodb aggregation.|
 |[build-script](https://gitlab.ftven.net/team-infini/build-script)|This script is use to pre-compilate the project before deploying to production environnement.|
 |[liip-imagine-color-filter](https://gitlab.ftven.net/team-infini/liip-imagine-color-filter)|Convert image to grayscale and apply color. Use composite function to mix color.|
-|[merger](https://gitlab.ftven.net/team-infini/merger)|n/a|
+|[merger](https://gitlab.ftven.net/team-infini/merger)|This component allows you to merge multiple data sources in a single array and based on business rules.|
 |[ftv-angular-notif](https://gitlab.ftven.net/team-infini/ftv-angular-notif)|Create notification at the bottom right of webpage.|
 |[ftv-sso-connector](https://gitlab.ftven.net/team-infini/ftv-sso-connector)|Interface between sso user and app user|
 |[ftv-angular-popin-generic](https://gitlab.ftven.net/team-infini/ftv-angular-popin-generic)|Generic popin|
