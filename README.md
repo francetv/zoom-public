@@ -20,5 +20,9 @@ Public repository that reference other repository
 |[ftv-angular-likebox](https://gitlab.ftven.net/team-infini/ftv-angular-likebox)|Likebox with like and dislike icon|
 |[ftv-angular-timebar](https://gitlab.ftven.net/team-infini/ftv-angular-timebar)|Angular Timebar component usually used for video player to quickly going on different time by clicking or dragging.|
 |[ftv-angular-speaker](https://gitlab.ftven.net/team-infini/ftv-angular-speaker)|Angular module to display a speaker and a volume bar. This module will throw event on mute/unmute and volume change.|
-
+|[ftv-zoom-ios-utils-string-extension](https://gitlab.ftven.net/team-infini/ftv-zoom-ios-utils-string-extension)|Swift String extension with numerous practical methods, among which there is the slugify() method that transforms a string into a proper slug.|
+|[ftv-zoom-ios-utils-uicolor-hex-extension](https://gitlab.ftven.net/team-infini/ftv-zoom-ios-utils-uicolor-hex-extension)|Swift UIColor extension allowing to initialize a color with a hexadecimal string.|
+|[ftv-zoom-ios-more-menu](https://gitlab.ftven.net/team-infini/ftv-zoom-ios-more-menu)|Simple Swift project demonstrating how the more menu was made for francetv zoom, using CAShapeLayer and CABasicAnimation.|
+|[ftv-zoom-ios-loader-view](https://gitlab.ftven.net/team-infini/ftv-zoom-ios-loader-view)|Simple Swift project demonstrating how the loader was made for francetv zoom, using CALayer and CABasicAnimation.|
+|[ftv-zoom-ios-view-controller-transition](https://gitlab.ftven.net/team-infini/ftv-zoom-ios-view-controller-transition)|Simple Swift project demonstrating how the custom transition from the playlists screen to the player screen was made for francetv zoom, by implementing the UINavigationControllerDelegate and UIViewControllerAnimatedTransitioning protocols.|
 Modules utilisé par &copy; francetv zoom
