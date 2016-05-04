@@ -29,4 +29,4 @@ Public repository that reference other repository
 |[ftv-zoom-android-utils-slugify](https://gitlab.ftven.net/team-infini/ftv-zoom-android-utils-slugify)|Utils method to slugify text (with UTest)|
 |[ftv-zoom-android-loader-view](https://gitlab.ftven.net/team-infini/ftv-zoom-android-loader-view)|LoaderView animation|
 
-Modules utilisé par francetv zoom
+Modules utilisés par francetv zoom
