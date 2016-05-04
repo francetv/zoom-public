@@ -25,4 +25,6 @@ Public repository that reference other repository
 |[ftv-zoom-ios-more-menu](https://gitlab.ftven.net/team-infini/ftv-zoom-ios-more-menu)|Simple Swift project demonstrating how the more menu was made for francetv zoom, using CAShapeLayer and CABasicAnimation.|
 |[ftv-zoom-ios-loader-view](https://gitlab.ftven.net/team-infini/ftv-zoom-ios-loader-view)|Simple Swift project demonstrating how the loader was made for francetv zoom, using CALayer and CABasicAnimation.|
 |[ftv-zoom-ios-view-controller-transition](https://gitlab.ftven.net/team-infini/ftv-zoom-ios-view-controller-transition)|Simple Swift project demonstrating how the custom transition from the playlists screen to the player screen was made for francetv zoom, by implementing the UINavigationControllerDelegate and UIViewControllerAnimatedTransitioning protocols.|
+|[ftv-zoom-android-utils-slugify](https://gitlab.ftven.net/team-infini/ftv-zoom-android-utils-slugify)|Utils method to slugify text (with UTest)|
+|[ftv-zoom-android-loader-view](https://gitlab.ftven.net/team-infini/ftv-zoom-android-loader-view)|LoaderView animation|
 Modules utilisé par &copy; francetv zoom
