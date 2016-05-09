@@ -1,6 +1,10 @@
-# zoom
+# Francetv zoom
 
-Public repository that reference other repository
+Francetv zoom was an innovative product developed by France Televisions, featuring personalized playlists and editorial video propositions, depending on your available time.
+ 
+Until May 2016, you could enjoy francetv zoom on Android, iOS and [http://zoom.francetv.fr](zoom.francetv.fr). From now on, we will focus on a new editorial proposition available exclusively on social media : [https://www.facebook.com](Facebook) and [https://www.twitter.com](Twitter). Therefore, the apps and website are shut down.
+ 
+Some of the projects developed by France Televisions for francetv zoom apps and website are released today in Open Source. We hope it will be useful to the community. 
 
 ## Modules
 
